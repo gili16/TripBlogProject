@@ -1,0 +1,26 @@
+ protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Configure one-to-many relationship between User and Track
+            modelBuilder.Entity<Track>()
+                .HasOne(t => t.User)
+                .WithMany(u => u.Tracks)
+                .HasForeignKey(t => t.UserId)
+                .IsRequired(false); // If a track may not have a user, else set to true
+
+            // Configure many-to-many relationship between User and Track for favorites
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.Favourites)
+                .WithMany(t => t.Favourites)
+                .UsingEntity<Dictionary<string, object>>(
+                    "UserFavoriteTracks",
+                    j => j.HasOne<Track>().WithMany().HasForeignKey("TrackId"),
+                    j => j.HasOne<User>().WithMany().HasForeignKey("UserId"),
+                    j =>
+                    {
+                        j.Property<int>("Id");
+                        j.HasKey("Id");
+                        j.HasIndex("UserId", "TrackId").IsUnique();
+                    });
+
+            // Any additional configurations...
+        }

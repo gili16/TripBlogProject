@@ -1,0 +1,204 @@
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll

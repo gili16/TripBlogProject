@@ -1,0 +1,204 @@
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\Common\obj\Debug\net6.0\ref\Common.dll

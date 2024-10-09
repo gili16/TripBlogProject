@@ -1,0 +1,289 @@
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\AA תיקיות מורות והגשות שיעורי בית\המ סירוקה-c#++\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שיעורים\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\version2\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version3\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version6\version5\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\versions6\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\VARSION7\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\FinalProject\versions\version7\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version9\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\bin\Debug\net6.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\FinalProject\versions\version10\MyProject.WebApi\MockContext\obj\Debug\net6.0\ref\MockContext.dll
