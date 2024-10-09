@@ -61,7 +61,7 @@ namespace TextFunctionService
             };
 
             // Add authorization header
-            
+
 
             try
             {
@@ -154,7 +154,7 @@ namespace TextFunctionService
             };
 
             // Add authorization header
-            
+
 
             try
             {
