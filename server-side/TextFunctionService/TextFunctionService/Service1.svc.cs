@@ -61,7 +61,7 @@ namespace TextFunctionService
             };
 
             // Add authorization header
-            request.Headers.Add("Authorization", "eyJvcmciOiI2NTNiOTllNjEzOGM3YzAwMDE2MDM5NTEiLCJpZCI6ImM3ZWRmYTE3NTQ2MTRmZmQ4NGFmN2VhN2RlNDQ0ODU4IiwiaCI6Im11cm11cjEyOCJ9");
+            
 
             try
             {
@@ -154,7 +154,7 @@ namespace TextFunctionService
             };
 
             // Add authorization header
-            request.Headers.Add("Authorization", "eyJvcmciOiI2NTNiOTllNjEzOGM3YzAwMDE2MDM5NTEiLCJpZCI6ImM3ZWRmYTE3NTQ2MTRmZmQ4NGFmN2VhN2RlNDQ0ODU4IiwiaCI6Im11cm11cjEyOCJ9");
+            
 
             try
             {
@@ -184,7 +184,7 @@ namespace TextFunctionService
         }
         public async Task<string> TranslateText(string text)
         {
-            string apiKey = "AIzaSyA2JjVMEu_t0BJeXkq92UhoKmOi1Q77lUs";
+            string apiKey = "";
 
             // Your target language code, e.g., "en" for English
             string targetLanguage = "en";
